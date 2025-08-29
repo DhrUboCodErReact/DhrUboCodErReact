@@ -51,25 +51,6 @@
 
 ---
 
-<p align="center">
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=DhrUboCodErReact&theme=monokai&column=7&no-frame=false&margin-w=4"/>
-</p>
-
----
-
-<div align="center">
-  <img src="https://github.com/DhrUboCodErReact/DhrUboCodErReact/blob/master/code.gif?raw=true" width="400" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/DhrUboCodErReact/DhrUboCodErReact/blob/main/github-user-contribution.svg" />
-</p>
-
----
-
 ### 🔗 Social & GitHub Badge
 <p align="center">
   <img src="https://img.shields.io/github/followers/dhrubajyoticoder?label=Follow&style=social" />

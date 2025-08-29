@@ -58,14 +58,14 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+  <img src="https://github.com/DhrUboCodErReact/DhrUboCodErReact/blob/master/code.gif?raw=true" width="400" />
 </div>
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/DhrUboCodErReact/blob/main/github-user-contribution.svg" />
+  <img src="https://github.com/DhrUboCodErReact/DhrUboCodErReact/blob/main/github-user-contribution.svg" />
 </p>
 
 ---

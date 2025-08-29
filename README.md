@@ -36,8 +36,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubajyoticoder&layout=compact&text_color=000&icon_color=000&bg_color=FFFFFF" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dhrubajyoticoder&show_icons=true&text_color=000&icon_color=000&bg_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhrUboCodErReact&layout=compact&text_color=000&icon_color=000&bg_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DhrUboCodErReact&show_icons=true&text_color=000&icon_color=000&bg_color=FFFFFF" />
 </p>
 
 ---
@@ -46,13 +46,13 @@
 
 ### 🧠 GitHub Insights
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhrubajyoticoder&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhrUboCodErReact&theme=github_dark" />
 </p>
 
 ---
 
 <p align="center">
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=dhrubajyoticoder&theme=monokai&column=7&no-frame=false&margin-w=4"/>
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=DhrUboCodErReact&theme=monokai&column=7&no-frame=false&margin-w=4"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/dhrubajyoticoder/dhrubajyoticoder/blob/main/github-user-contribution.svg" />
+  <img src="https://github.com/DhrUboCodErReact/blob/main/github-user-contribution.svg" />
 </p>
 
 ---

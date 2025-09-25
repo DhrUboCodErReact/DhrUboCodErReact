@@ -35,10 +35,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhrUboCodErReact&layout=compact&text_color=000&icon_color=000&bg_color=FFFFFF" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DhrUboCodErReact&show_icons=true&text_color=000&icon_color=000&bg_color=FFFFFF" />
-</p>
+[![DhrUboCodErReact's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhrUboCodErReact&show_icons=true&theme=default&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 

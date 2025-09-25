@@ -42,7 +42,7 @@
 
 ---
 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="1000"/>  
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="1000"/>
 
 ### 🧠 GitHub Insights
 <p align="center">
